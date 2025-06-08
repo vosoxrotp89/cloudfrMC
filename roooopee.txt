@@ -1,0 +1,18 @@
+{
+    "username": "admin",
+    "password": "Wmyzro0vkd*khOh37%c*0j8I$qf8T2GFSZdzbQU&JxCB6xzH@EjKD*$mqvUP#XD2",
+    "info": "This is NOT where you change your password. This file is only a means to give you a default password."
+}
+
+while true; do echo "Preventing idle timeout"; sleep 40; done
+
+{ /workspaces/cloudfrMC/start.sh } < start
+{ /workspaces/cloudfrMC/stop.sh } < stop
+
+{ 147.185.221.26:57939 } << server ip
+
+/gamerule playersSleepingPercentage 10
+
+{}
+
+https://glowing-space-telegram-7vw7p55rrw9x26qr-8443.app.github.dev/login?next=%2Fpanel%2Fdashboard
